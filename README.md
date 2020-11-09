@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-<img src="https://raw.githubusercontent.com/marcus-bornman/cos_710_assignment_2/master/assets/screenshot_1.gif" width="600" alt="Screenshot 1" />
+<img src="https://raw.githubusercontent.com/marcus-bornman/cos_710_assignment_2/master/assets/screenshot_1.gif" width="800" alt="Screenshot 1" />
 </p>
 
 This assignment was completed as part of the COS710 (Artificial Intelligence) Honours module at the University of Pretoria
