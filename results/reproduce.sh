@@ -1,3 +1,5 @@
+cd ..
+
 echo "Building the project..."
 mvn clean compile assembly:single
 
