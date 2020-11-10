@@ -39,8 +39,8 @@
 <img src="https://raw.githubusercontent.com/marcus-bornman/cos_710_assignment_2/master/assets/screenshot_1.gif" width="800" alt="Screenshot 1" />
 </p>
 
-This assignment was completed as part of the COS710 (Artificial Intelligence) Honours module at the University of Pretoria
-and involves employing genetic programming to produce a classifier for postoperative patient diagnosis.
+This assignment - completed as part of the COS710 (Artificial Intelligence) Honours module at the University of Pretoria -
+involves employing genetic programming to produce a classifier for postoperative patient diagnosis.
 
 See the following for detailed information about the project:
 * [specification.pdf](assets/specification.pdf) - The specification for this assignment.
@@ -66,9 +66,9 @@ mvn clean compile assembly:single
 <!-- USAGE EXAMPLES -->
 ## Usage
 To reproduce the results mentioned in [the report for this assignment](assets/report/report.pdf), you simply need to run the
-[reproduce.sh](results/reproduce.sh) script found in the root folder of this project:
+[reproduce.sh](results/reproduce.sh) from the root folder of this project:
 ```shell script
-sh reproduce.sh
+sh results/reproduce.sh
 ```
 This will reproduce the output for 10 test runs using each of 3 genetic parameter combinations in the [results folder](results).
 
